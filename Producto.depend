@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1712843274 source:c:\users\anali\documents\analía\tecnicatura univ programacion utn\2º cuatri\labo ii\tps poo\temporizador\producto\producto\main.cpp
+	"Producto.h"
+	<iostream>
+	<locale>
+	<cstdlib>
+	<cstring>
+	<ctime>
+
+1712844473 c:\users\anali\documents\analía\tecnicatura univ programacion utn\2º cuatri\labo ii\tps poo\temporizador\producto\producto\producto.h
+
+1712843274 source:c:\users\anali\documents\analía\tecnicatura univ programacion utn\2º cuatri\labo ii\tps\producto\main.cpp
+	"Producto.h"
+	<iostream>
+	<locale>
+	<cstdlib>
+	<cstring>
+	<ctime>
+
+1712844473 c:\users\anali\documents\analía\tecnicatura univ programacion utn\2º cuatri\labo ii\tps\producto\producto.h
+
+1712859216 source:c:\users\anali\documents\analía\tecnicatura univ programacion utn\2º cuatri\labo ii\tps poo\producto\cargarcadena.cpp
+
+1712857255 c:\users\anali\documents\analía\tecnicatura univ programacion utn\2º cuatri\labo ii\tps poo\producto\cargarcadena.h
+
+1712860185 source:c:\users\anali\documents\analía\tecnicatura univ programacion utn\2º cuatri\labo ii\tps poo\producto\main.cpp
+	"Producto.h"
+	"funciones.h"
+	<iostream>
+	<locale>
+	<cstdlib>
+	<cstring>
+	<ctime>
+
+1712857956 c:\users\anali\documents\analía\tecnicatura univ programacion utn\2º cuatri\labo ii\tps poo\producto\producto.h
+
+1712859221 source:c:\users\anali\documents\analía\tecnicatura univ programacion utn\2º cuatri\labo ii\tps poo\producto\producto.cpp
+	"Producto.h"
+	"funciones.h"
+	<iostream>
+	<cstring>
+
+1712860151 source:c:\users\anali\documents\analía\tecnicatura univ programacion utn\2º cuatri\labo ii\tps poo\producto\funciones.cpp
+	"funciones.h"
+	"Producto.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+
+1712860145 c:\users\anali\documents\analía\tecnicatura univ programacion utn\2º cuatri\labo ii\tps poo\producto\funciones.h
+	"Producto.h"
+
